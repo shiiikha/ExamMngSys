@@ -1,0 +1,55 @@
+.body{
+    align-content: center;
+}
+
+.a-container{
+    position: absolute;
+    left: 35%;
+    top: 10%;
+}
+
+.b-container{
+    position: absolute;
+    left: 24%;
+    top: 35%;
+}
+.c{
+    position: relative;
+    left: 25%;
+}
+
+
+
+.mainDiv {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -50px 0px 0px -50px;
+    
+
+}
+
+div.a{
+    font-size: 160%;
+    right: 30%;
+}
+.button {
+    border-radius: 12px;
+    background-color: rgb(28, 168, 0);
+    border: rgb(241, 222, 222);
+    color: rgb(14, 13, 13);
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    background-color: rgb(240, 240, 240);
+    color: black;
+    border: 2px solid #131314;
+  }
