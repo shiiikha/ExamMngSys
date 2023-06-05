@@ -1,6 +1,7 @@
 # Examination Management System
 
 ---
+![examination management system](https://github.com/shiiikha/ExamMngSys/assets/91041684/51b5fc5e-7e7e-41f3-a5fd-4ae2f5f73ab2)
 
 
 Welcome to Examination Management System! This project is a basic HTML and CSS website that includes a login form for both students and admins, an MCQs format examination feature, an "Let's Begin" button for trial exams, and additional pages for About Us and Contact Us.
