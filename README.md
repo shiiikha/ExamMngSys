@@ -17,7 +17,7 @@ Welcome to Examination Management System! This project is a basic HTML and CSS w
 
 To use this website, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/MyWebsite.git`
+1. Clone the repository: `git clone https://github.com/shiiikha/ExamMngSys.git`
 2. Open `index.html` in your preferred web browser.
 3. Navigate through the different pages using the navigation menu.
 
